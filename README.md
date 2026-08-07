@@ -85,6 +85,9 @@ Install the ROS 2 Humble Desktop package:
 
 sudo apt install ros-humble-desktop -y
 ```
+
+<img width="1477" height="547" alt="Screenshot 2026-08-07 213824" src="https://github.com/user-attachments/assets/6bab5834-589a-4dbd-a334-08c1f0968740" />
+
 Wait for the installation to complete.
 ## 8. Configure ROS 2
 Source the ROS 2 Humble environment:
@@ -92,6 +95,8 @@ Source the ROS 2 Humble environment:
 
 source /opt/ros/humble/setup.bash
 ```
+
+
 ## 9. Verify the Installation
 Check the installed ROS distribution:
 ```bash
